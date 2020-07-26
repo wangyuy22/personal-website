@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Yuyang Wang</title>
+    <link>https://wangyuy22.github.io/project/</link>
+    <description>Recent content in Projects on Yuyang Wang</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://wangyuy22.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SpotShare</title>
+      <link>https://wangyuy22.github.io/project/spotshare/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangyuy22.github.io/project/spotshare/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;SpotShare is a web app that allows users to curate playlists and share with the world! Using the Spotify API , users can select songs from Spotify and feature them in their playlists. They are then displayed with a 30 second preview and open for anyone to see. Other users can leave comments as well as follow your playlists! The features are listed below:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Account Session Management&lt;/li&gt;
+&lt;li&gt;Profile Pictures&lt;/li&gt;
+&lt;li&gt;Create / Edit / Delete Playlist&lt;/li&gt;
+&lt;li&gt;Follow / Unfollow Playlist&lt;/li&gt;
+&lt;li&gt;Create / Edit / Delete Profile&lt;/li&gt;
+&lt;li&gt;Add / Edit / Delete Comments&lt;/li&gt;
+&lt;li&gt;Add / Remove Songs&lt;/li&gt;
+&lt;li&gt;Song Information (Artist, Album, Duration, etc)&lt;/li&gt;
+&lt;li&gt;Spotify Preview&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what-i-learnedgained&#34;&gt;What I Learned/Gained&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience with Ruby on Rails and MVC framework&lt;/li&gt;
+&lt;li&gt;Use of external Gems and APIs such as the Spotify API&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;languages-and-frameworks&#34;&gt;Languages and Frameworks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ruby on Rails&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;technologies&#34;&gt;Technologies&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;AWS&lt;/li&gt;
+&lt;li&gt;Heroku&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;gallery/spotshare3.jpg&#34; &gt;
+
+&lt;img src=&#34;gallery/spotshare3.jpg&#34; &gt;
+&lt;/a&gt;
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Landing Page&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;gallery/spotshare2.jpg&#34; &gt;
+
+&lt;img src=&#34;gallery/spotshare2.jpg&#34; &gt;
+&lt;/a&gt;
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Playlist Preview&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;gallery/spotshare1.jpg&#34; &gt;
+
+&lt;img src=&#34;gallery/spotshare1.jpg&#34; &gt;
+&lt;/a&gt;
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Song Info&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>U.S. Flight Delay Model</title>
+      <link>https://wangyuy22.github.io/project/flight-delay/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangyuy22.github.io/project/flight-delay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hospital Donor App</title>
+      <link>https://wangyuy22.github.io/project/health-app/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangyuy22.github.io/project/health-app/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;The Health Donor app has two components: a web app and an Android app. The web app allows for healthcare providers such as hospitals to create accounts and create donation postings for resources they may need. The mobile app is for users to view these donation postings and donate to those that they are able to.&lt;/p&gt;
+&lt;p&gt;The web app is built using &lt;strong&gt;NodeJS&lt;/strong&gt; and &lt;strong&gt;ExpressEJS&lt;/strong&gt;, while we used &lt;strong&gt;Java&lt;/strong&gt; and &lt;strong&gt;Android Studio&lt;/strong&gt; to create the mobile app. Both apps are connected to a common &lt;strong&gt;MongoDB&lt;/strong&gt; backend, and they communicate through API calls.&lt;/p&gt;
+&lt;p&gt;For this project, I worked in a team of four, with three other programmers and one product manager. We followed an agile software development approach, with user stories, weekly meetings, etc. We also heavily relied on version control through GitHub.&lt;/p&gt;
+&lt;h2 id=&#34;what-i-learnedgained&#34;&gt;What I Learned/Gained&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience in using a NoSQL database such as MongoDB&lt;/li&gt;
+&lt;li&gt;Experience in creating APIs to aid the communication between web app and mobile app&lt;/li&gt;
+&lt;li&gt;Experience in creating an Android app through Java and Android Studio&lt;/li&gt;
+&lt;li&gt;Experience in working under an agile development approach&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;languages-and-frameworks&#34;&gt;Languages and Frameworks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Java&lt;/li&gt;
+&lt;li&gt;JavaScript&lt;/li&gt;
+&lt;li&gt;NodeJS&lt;/li&gt;
+&lt;li&gt;ExpressEJS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;technologies&#34;&gt;Technologies&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;MongoDB&lt;/li&gt;
+&lt;li&gt;Android Studio&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>YouTube Analysis</title>
+      <link>https://wangyuy22.github.io/project/youtube-analysis/</link>
+      <pubDate>Sun, 22 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangyuy22.github.io/project/youtube-analysis/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;R script that utilizes the YouTube Data v3 API to analyze viewership trends on the YouTube platform, trends among popular content creators of various categories, as well as characteristics of recommended videos by YouTube. Web scraped 600+ YouTube videos to and 150 content creators analyze.&lt;/p&gt;
+&lt;h2 id=&#34;what-i-learnedgained&#34;&gt;What I Learned/Gained&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience in conducting EDA and combining data from various sources&lt;/li&gt;
+&lt;li&gt;Web scraping using the Web Scraper &lt;a href=&#34;https://www.webscraper.io/&#34;&gt;Chrome Extension&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Using the YouTube Data v3 API&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;languages-and-frameworks&#34;&gt;Languages and Frameworks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;R&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;technologies&#34;&gt;Technologies&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PennBook</title>
+      <link>https://wangyuy22.github.io/project/pennbook/</link>
+      <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangyuy22.github.io/project/pennbook/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Pennbook is a social media program similar to Facebook, with many of Facebook&amp;rsquo;s key features implemented.
+Most notably, it allows for users to add friends, message them, have a feed and wall, as well as friend recommendations.
+The backend is linked to AWS DynamoDB while the frontend uses ExpressEJS and CSS styling. Hadoop MapReduce was also used
+to create friend recommendations through the adsorption method.&lt;/p&gt;
+&lt;p&gt;Features Implemented:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;sign up / login page&lt;/li&gt;
+&lt;li&gt;user feed&lt;/li&gt;
+&lt;li&gt;update status&lt;/li&gt;
+&lt;li&gt;edit/update profile&lt;/li&gt;
+&lt;li&gt;logout&lt;/li&gt;
+&lt;li&gt;search other users&lt;/li&gt;
+&lt;li&gt;recommended search results (dynamic)&lt;/li&gt;
+&lt;li&gt;add friend / unfriend&lt;/li&gt;
+&lt;li&gt;view profile of other user&lt;/li&gt;
+&lt;li&gt;visualize friendship network&lt;/li&gt;
+&lt;li&gt;auto-refresh of feed&lt;/li&gt;
+&lt;li&gt;comments on posts&lt;/li&gt;
+&lt;li&gt;like / unlike posts&lt;/li&gt;
+&lt;li&gt;see online friendship&lt;/li&gt;
+&lt;li&gt;chat with one user&lt;/li&gt;
+&lt;li&gt;chat notification&lt;/li&gt;
+&lt;li&gt;group chat&lt;/li&gt;
+&lt;li&gt;persistence in chat&lt;/li&gt;
+&lt;li&gt;friend recommendations&lt;/li&gt;
+&lt;li&gt;download information for friend recommendations&lt;/li&gt;
+&lt;li&gt;uploat text file for friend recommendations&lt;/li&gt;
+&lt;li&gt;infinite scrolling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what-i-learnedgained&#34;&gt;What I Learned/Gained&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;This was my first time coding a web applications, so I learned a lot about the basics of web programming and using NodeJS&lt;/li&gt;
+&lt;li&gt;Learned about how to use databases such as DynamoDB, as well as hosting the app on an AWS server&lt;/li&gt;
+&lt;li&gt;Teamwork and communication skills; I worked with 2 other members&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;languages-and-frameworks&#34;&gt;Languages and Frameworks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;JavaScript&lt;/li&gt;
+&lt;li&gt;NodeJS&lt;/li&gt;
+&lt;li&gt;ExpressEJS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;technologies&#34;&gt;Technologies&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;AWS EC2&lt;/li&gt;
+&lt;li&gt;AWS DynamoDB&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Amazon Transcend Analysis</title>
+      <link>https://wangyuy22.github.io/project/transcend/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangyuy22.github.io/project/transcend/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;R script analysis of SD card manufacturers on Amazon in order to derive insights on which are the most successful competitors of Transcend (a Taiwanese SD card manufacturer). Moreover, I analyze the reviews of these products to derive insights on the most commonly used terms. Created metrics to support regression models that predict the helpfulness of any given review by a user through various indicators.&lt;/p&gt;
+&lt;h2 id=&#34;what-i-learnedgained&#34;&gt;What I Learned/Gained&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience creating and justifying metrics&lt;/li&gt;
+&lt;li&gt;Experience in training basic regression models&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;languages-and-frameworks&#34;&gt;Languages and Frameworks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;R&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CNBC News Analysis</title>
+      <link>https://wangyuy22.github.io/project/cnbc/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangyuy22.github.io/project/cnbc/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;R script that conducts text analysis on CNBC new articles. Runs LDA to find the various topics that are covered the most while also using a document-term matrix to assign certain articles to each of these groups.&lt;/p&gt;
+&lt;h2 id=&#34;what-i-learnedgained&#34;&gt;What I Learned/Gained&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience in text analysis&lt;/li&gt;
+&lt;li&gt;First time using LDA and document-term matrix&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;languages-and-frameworks&#34;&gt;Languages and Frameworks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;R&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lending Club Analysis</title>
+      <link>https://wangyuy22.github.io/project/lending-club/</link>
+      <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangyuy22.github.io/project/lending-club/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Analysis on Lending Club while also testing different machine learning techniques to produce models that predict the likelihood for someone to repay their loan. Created both a logistic regression model and a classification tree to assess and compare their performances on the data set.&lt;/p&gt;
+&lt;h2 id=&#34;what-i-learnedgained&#34;&gt;What I Learned/Gained&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience in conducting EDA&lt;/li&gt;
+&lt;li&gt;Exposure to logistic regression model and classification tree&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;languages-and-frameworks&#34;&gt;Languages and Frameworks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;R&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NYC Rodent Analysis</title>
+      <link>https://wangyuy22.github.io/project/nyc-rodent/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangyuy22.github.io/project/nyc-rodent/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;R script that uses data on rodent activity in New York City to analyze various aspects of the rodent infestation that persists within the city. In particular, I look at the activity and frequency of rodent problems across the 5 different areas within NYC and also how events such as Hurricane Sandy affect the number of reported rodent-related issues.&lt;/p&gt;
+&lt;h2 id=&#34;what-i-learnedgained&#34;&gt;What I Learned/Gained&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience in conducting EDA&lt;/li&gt;
+&lt;li&gt;Basic data manipulation and visualization in R&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;languages-and-frameworks&#34;&gt;Languages and Frameworks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;R&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Philadelphia Hair Salon Analysis</title>
+      <link>https://wangyuy22.github.io/project/philly-barber/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangyuy22.github.io/project/philly-barber/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Through web scraping Yelp data on 200+ hair salons and barber shops in Philadelphia, I hope to answer various questions that newcomers to the city may have regarding hair salons / barber shops. Through various metrics, I determine which shops are the best / worst in terms of quality, value-for-money, etc.&lt;/p&gt;
+&lt;h2 id=&#34;what-i-learnedgained&#34;&gt;What I Learned/Gained&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Visualizations in Tableau&lt;/li&gt;
+&lt;li&gt;Creating and telling a data story&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;languages-and-frameworks&#34;&gt;Languages and Frameworks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Tableau&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NYC Citi Bike Investigation</title>
+      <link>https://wangyuy22.github.io/project/citibike/</link>
+      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangyuy22.github.io/project/citibike/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Analyzed human data on the usage of Citi Bikes. Explored the discrepancies in usage between different genders and used the derived insights to help provide solutions that can mitigate the gender imbalance of Citi Bike users.&lt;/p&gt;
+&lt;h2 id=&#34;what-i-learnedgained&#34;&gt;What I Learned/Gained&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Data visualization in Tableau, especially with geodata&lt;/li&gt;
+&lt;li&gt;Creating recommendations based off of insights&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;languages-and-frameworks&#34;&gt;Languages and Frameworks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Tableau&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NBA MoneyBall</title>
+      <link>https://wangyuy22.github.io/project/moneyball/</link>
+      <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangyuy22.github.io/project/moneyball/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Analyzed 500+ current NBA players, their player efficiency ratings (PER), and salaries to find the &amp;ldquo;best&amp;rdquo; value-for-money players. Also analyzed the previous NBA Draft and college recruits data to gain insights on how to select players for the NBA Draft.&lt;/p&gt;
+&lt;h2 id=&#34;what-i-learnedgained&#34;&gt;What I Learned/Gained&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience in using Tableau&lt;/li&gt;
+&lt;li&gt;Combining data science with a personal interest (NBA!)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;languages-and-frameworks&#34;&gt;Languages and Frameworks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Tableau&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tab Ctrl</title>
+      <link>https://wangyuy22.github.io/project/tabctrl/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangyuy22.github.io/project/tabctrl/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;TabCtrl is a Google Extension made to allow users to organize and reformat their windows and tabs without using the mouse or trackpad. It supports over 20 shortcuts such as sorting tabs, moving tabs, grouping, pinning, etc.&lt;/p&gt;
+&lt;p&gt;It uses HTML, CSS, JQuery, mousetrap.js from &lt;a href=&#34;https://craig.is/killing/mice,&#34;&gt;https://craig.is/killing/mice,&lt;/a&gt; as well as the Chrome API.&lt;/p&gt;
+&lt;h2 id=&#34;what-i-learnedgained&#34;&gt;What I Learned/Gained&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;JavaScript (first time!)&lt;/li&gt;
+&lt;li&gt;How to use jQuery, background listeners, call back functions, etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;languages-and-frameworks&#34;&gt;Languages and Frameworks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;JavaScript&lt;/li&gt;
+&lt;li&gt;HTML/CSS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;technologies&#34;&gt;Technologies&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Chrome API&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Course Planner</title>
+      <link>https://wangyuy22.github.io/project/course-planner/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangyuy22.github.io/project/course-planner/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Course Planner is a Java application that aims to help Engineering students at Penn with course selection. It visualizes the course progression of all 10+ Penn Engineering majors. It web scrapes using JSoup and employs topological sorting to correctly order the courses of a given major.&lt;/p&gt;
+&lt;h2 id=&#34;what-i-learnedgained&#34;&gt;What I Learned/Gained&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Improved web scraping skills&lt;/li&gt;
+&lt;li&gt;Teamwork experience; this was my first coding project with other members&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;languages-and-frameworks&#34;&gt;Languages and Frameworks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Java&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;technologies&#34;&gt;Technologies&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Regex&lt;/li&gt;
+&lt;li&gt;jsoup&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BrickBreaker</title>
+      <link>https://wangyuy22.github.io/project/brickbreaker/</link>
+      <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangyuy22.github.io/project/brickbreaker/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Brick Breaker is a Java application that emulates the original game. Uses Java Swing and Object-oriented Programming to support various features. The game includes 3 different difficulties and allows for pausing and resuming games through File I/O.&lt;/p&gt;
+&lt;h2 id=&#34;what-i-learnedgained&#34;&gt;What I Learned/Gained&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Improved object-oriented programming skills&lt;/li&gt;
+&lt;li&gt;Improved understanding of Java Swing Library&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;languages-and-frameworks&#34;&gt;Languages and Frameworks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Java&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2048</title>
+      <link>https://wangyuy22.github.io/project/2048/</link>
+      <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangyuy22.github.io/project/2048/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;2048 is a Java application that mimics the original 2048 game. It employs Object-oriented Programming techniques to support the functionalities of the gameplay. It uses the WASD keys.&lt;/p&gt;
+&lt;h2 id=&#34;what-i-learnedgained&#34;&gt;What I Learned/Gained&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Improved object-oriented programming skills&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;languages-and-frameworks&#34;&gt;Languages and Frameworks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Java&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Connect 4</title>
+      <link>https://wangyuy22.github.io/project/connect4/</link>
+      <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangyuy22.github.io/project/connect4/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Connect 4 is a Java application that emulates the traditional game. There are 2 modes: singleplayer and multiplayer. The singleplayer mode allows the user to play against the CPU, while the multiplayer mode allows two users to play against each other. Uses Object-oriented Programming with objects such as the Board, Tile, and Game.&lt;/p&gt;
+&lt;h2 id=&#34;what-i-learnedgained&#34;&gt;What I Learned/Gained&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Improved object-oriented programming skills&lt;/li&gt;
+&lt;li&gt;Improved understanding of Java Swing Library&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;languages-and-frameworks&#34;&gt;Languages and Frameworks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Java&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
