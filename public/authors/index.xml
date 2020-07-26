@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Yuyang Wang</title>
+    <link>https://wangyuy22.github.io/authors/</link>
+    <description>Recent content in Authors on Yuyang Wang</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    
+	    <atom:link href="https://wangyuy22.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://wangyuy22.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangyuy22.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;Hi, I&amp;rsquo;m Yuyang!&lt;/p&gt;
+&lt;p&gt;I grew up in the Philippines and I&amp;rsquo;m a Junior at the University of Pennsylvania studying Networked and Social Systems Engineering (NETS).&lt;/p&gt;
+&lt;p&gt;NETS is an interdisciplinary major that explores the application of CS to real-world network systems. Alongisde my major, I&amp;rsquo;m  also pursuing minors in Data Science and Mathematics.&lt;/p&gt;
+&lt;p&gt;In the past two summers, I&amp;rsquo;ve worked at two amazing tech startups in Southeast Asia – as a Data Science Intern and Product Management Intern respectively – and I hope to continue my journey in learning more about how technology is used in today&amp;rsquo;s world.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

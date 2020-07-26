@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>java on Yuyang Wang</title>
+    <link>https://wangyuy22.github.io/tags/java/</link>
+    <description>Recent content in java on Yuyang Wang</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://wangyuy22.github.io/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Course Planner</title>
+      <link>https://wangyuy22.github.io/project/course-planner/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangyuy22.github.io/project/course-planner/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Course Planner is a Java application that aims to help Engineering students at Penn with course selection. It visualizes the course progression of all 10+ Penn Engineering majors. It web scrapes using JSoup and employs topological sorting to correctly order the courses of a given major.&lt;/p&gt;
+&lt;h2 id=&#34;what-i-learnedgained&#34;&gt;What I Learned/Gained&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Improved web scraping skills&lt;/li&gt;
+&lt;li&gt;Teamwork experience; this was my first coding project with other members&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;languages-and-frameworks&#34;&gt;Languages and Frameworks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Java&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;technologies&#34;&gt;Technologies&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Regex&lt;/li&gt;
+&lt;li&gt;jsoup&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BrickBreaker</title>
+      <link>https://wangyuy22.github.io/project/brickbreaker/</link>
+      <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangyuy22.github.io/project/brickbreaker/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Brick Breaker is a Java application that emulates the original game. Uses Java Swing and Object-oriented Programming to support various features. The game includes 3 different difficulties and allows for pausing and resuming games through File I/O.&lt;/p&gt;
+&lt;h2 id=&#34;what-i-learnedgained&#34;&gt;What I Learned/Gained&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Improved object-oriented programming skills&lt;/li&gt;
+&lt;li&gt;Improved understanding of Java Swing Library&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;languages-and-frameworks&#34;&gt;Languages and Frameworks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Java&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2048</title>
+      <link>https://wangyuy22.github.io/project/2048/</link>
+      <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangyuy22.github.io/project/2048/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;2048 is a Java application that mimics the original 2048 game. It employs Object-oriented Programming techniques to support the functionalities of the gameplay. It uses the WASD keys.&lt;/p&gt;
+&lt;h2 id=&#34;what-i-learnedgained&#34;&gt;What I Learned/Gained&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Improved object-oriented programming skills&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;languages-and-frameworks&#34;&gt;Languages and Frameworks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Java&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Connect 4</title>
+      <link>https://wangyuy22.github.io/project/connect4/</link>
+      <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangyuy22.github.io/project/connect4/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Connect 4 is a Java application that emulates the traditional game. There are 2 modes: singleplayer and multiplayer. The singleplayer mode allows the user to play against the CPU, while the multiplayer mode allows two users to play against each other. Uses Object-oriented Programming with objects such as the Board, Tile, and Game.&lt;/p&gt;
+&lt;h2 id=&#34;what-i-learnedgained&#34;&gt;What I Learned/Gained&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Improved object-oriented programming skills&lt;/li&gt;
+&lt;li&gt;Improved understanding of Java Swing Library&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;languages-and-frameworks&#34;&gt;Languages and Frameworks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Java&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

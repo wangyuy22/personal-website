@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Yuyang Wang</title>
+    <link>https://wangyuy22.github.io/tags/</link>
+    <description>Recent content in Tags on Yuyang Wang</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://wangyuy22.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>coding</title>
+      <link>https://wangyuy22.github.io/tags/coding/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangyuy22.github.io/tags/coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>webapp</title>
+      <link>https://wangyuy22.github.io/tags/webapp/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangyuy22.github.io/tags/webapp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data</title>
+      <link>https://wangyuy22.github.io/tags/data/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangyuy22.github.io/tags/data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ml</title>
+      <link>https://wangyuy22.github.io/tags/ml/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangyuy22.github.io/tags/ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>story</title>
+      <link>https://wangyuy22.github.io/tags/story/</link>
+      <pubDate>Sun, 22 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangyuy22.github.io/tags/story/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>java</title>
+      <link>https://wangyuy22.github.io/tags/java/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangyuy22.github.io/tags/java/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
