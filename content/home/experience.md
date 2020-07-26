@@ -28,6 +28,7 @@ date_format = "Jan 2006"
   
   * Contributed to cleaning and QA of the Philippines’ Department of Health’s daily publicly released COVID dataset (50,000+ rows) 
   * Implemented and streamlined data validity checks on Google Big Query which decreased daily pipeline runtime by ~90% 
+  * Analyzed over 9 million rows of COVID cases data to assess performance of data quality checks and identify areas to address
   * Created interactive dashboards on Google Data Studio to gain feedback on the internal QA checks of the COVID dataset
 
   """

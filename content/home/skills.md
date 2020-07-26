@@ -38,6 +38,12 @@ subtitle = "TECHNICAL SKILLS & TECHNOLOGIES"
   name = "HTML/CSS"
   parcent = "75%"
 
+   [[feature]]
+  icon = "gem"
+  icon_pack = "fas"
+  name = "Ruby on Rails"
+  parcent = "50%"
+
   [[feature]]
   icon = "database"
   icon_pack = "fas"
@@ -45,15 +51,9 @@ subtitle = "TECHNICAL SKILLS & TECHNOLOGIES"
   parcent = "75%"
 
   [[feature]]
-  icon = "search"
-  icon_pack = "fas"
-  name = "Google Big Query"
-  parcent = "75%"
-
-  [[feature]]
   icon = "python"
   icon_pack = "fab"
-  name = "Pandas"
+  name = "Python / Pandas"
   parcent = "75%"
 
   [[feature]]
@@ -62,10 +62,23 @@ subtitle = "TECHNICAL SKILLS & TECHNOLOGIES"
   name = "R"
   parcent = "50%"
 
- [[feature]]
-  icon = "gem"
+  [[feature]]
+  icon = "search"
   icon_pack = "fas"
-  name = "Ruby on Rails"
+  name = "Google Big Query"
+  parcent = "75%"
+
+
+  [[feature]]
+  icon = "chart-bar"
+  icon_pack = "fas"
+  name = "Tableau"
+  parcent = "50%"
+
+  [[feature]]
+  icon = "chart-pie"
+  icon_pack = "fas"
+  name = "Google Data Studio"
   parcent = "50%"
 
 +++

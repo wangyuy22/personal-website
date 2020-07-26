@@ -18,7 +18,7 @@
       {{ $params := dict "root" $ "page" . "author" $username }}
       {{ partial $widget $params }}
     {{end}}
-
+    {{ $widget := "widgets/coursework.html" }}
     {{ $query := where .Pages ".IsNode" false }}
     {{ $count := len $query }}
     {{ if $count }}
