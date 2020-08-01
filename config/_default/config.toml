@@ -19,7 +19,7 @@ canonifyURLs = true
 copyright = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-174228976-1"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
